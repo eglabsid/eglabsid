@@ -2,14 +2,14 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-
 <div align="right">
    
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feglabsid%2Fhit-counter&count_bg=%23E81233&title_bg=%23555555&icon=happycow.svg&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)   
-   
+
+   <img src="https://github-readme-stats.vercel.app/api?username=eglabsid&show_icons=true&theme=transparent">
+
+
 </div>
-
-
 
 
 <div algign="center">
@@ -32,6 +32,5 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=eglabsid&show_icons=true&theme=transparent">
 
 </div>
