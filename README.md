@@ -1,6 +1,6 @@
 
 
-## 👯 I’m looking to collaborate on ...
+## 👯 I’m looking to collaborate on ... 
 
 <div align="right">
    
