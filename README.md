@@ -6,10 +6,7 @@
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feglabsid%2Fhit-counter&count_bg=%23E81233&title_bg=%23555555&icon=happycow.svg&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
    
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglabsid&layout=compact)
-
-![EGLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=eglabsid&show_icons=true&theme=transparent)
+<img src="![EGLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=eglabsid&show_icons=true&theme=transparent)">
 
 
 - [x] Gaming:
